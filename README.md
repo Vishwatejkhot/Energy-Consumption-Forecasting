@@ -3,7 +3,7 @@
 An intelligent hybrid AI system that combines:
 
 -   📈 XGBoost time-series forecasting\
--   🤖 Groq LLM (Llama 3) insights\
+-   🤖 Groq LLM  insights\
 -   🧠 Multi-agent architecture\
 -   🎛️ Streamlit interactive dashboard
 
