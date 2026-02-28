@@ -91,7 +91,7 @@ Then open the local URL shown in your terminal.
 ## 🏗 Architecture Overview
 
 -   Machine Learning Layer → XGBoost forecasting\
--   LLM Layer → Groq (Llama 3)\
+-   LLM Layer → Groq \
 -   Prompt Layer → Version-controlled prompts\
 -   Agent Layer → Specialized AI agents\
 -   UI Layer → Streamlit
@@ -109,7 +109,6 @@ This is a hybrid ML + GenAI system.
 -   langchain\
 -   langchain-core\
 -   langchain-groq\
--   groq\
 -   python-dotenv
 
 ------------------------------------------------------------------------
